@@ -1,4 +1,4 @@
-# Softwware Engineer -- Walmart Simulation
+# Software Engineer -- Walmart Simulation
 
 ## Overview
 
